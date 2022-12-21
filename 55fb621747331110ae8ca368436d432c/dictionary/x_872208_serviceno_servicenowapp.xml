@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="96eca61b47331110ae8ca368436d4327" extends="task" label="ServicenowApp" max_length="40" name="x_872208_serviceno_servicenowapp" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Start date" max_length="40" name="start_date" type="glide_date"/>
+    </element>
+</database>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="ServicenowApp" language="en" table="x_872208_serviceno_servicenowapp">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>ServicenowApp</label>
+            <language>en</language>
+            <name>x_872208_serviceno_servicenowapp</name>
+            <plural>ServicenowApps</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>surbhi</sys_created_by>
+            <sys_created_on>2022-12-21 16:45:23</sys_created_on>
+            <sys_name>ServicenowApp</sys_name>
+            <sys_package display_value="Servicenow App" source="x_872208_serviceno">55fb621747331110ae8ca368436d432c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Servicenow App">55fb621747331110ae8ca368436d432c</sys_scope>
+            <sys_update_name>sys_documentation_x_872208_serviceno_servicenowapp__en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

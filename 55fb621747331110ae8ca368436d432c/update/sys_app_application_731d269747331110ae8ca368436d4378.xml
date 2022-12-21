@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>x_872208_serviceno.servicenow_app</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>surbhi</sys_created_by>
+        <sys_created_on>2022-12-21 16:46:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>731d269747331110ae8ca368436d4378</sys_id>
+        <sys_name>Servicenow App</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Servicenow App" source="x_872208_serviceno">55fb621747331110ae8ca368436d432c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Servicenow App">55fb621747331110ae8ca368436d432c</sys_scope>
+        <sys_update_name>sys_app_application_731d269747331110ae8ca368436d4378</sys_update_name>
+        <title>Servicenow App</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
